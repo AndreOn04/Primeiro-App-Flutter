@@ -49,7 +49,5 @@ Excluir:
 Deslize uma tarefa para a direita para excluí-la.
 
 # 📸 Capturas de Tela
-
-![task](https://github.com/user-attachments/assets/afe901e1-3678-44e0-b993-0a2ede68dca9)
-![task1](https://github.com/user-attachments/assets/dfa37500-4c8c-4534-90a1-b30881138e9c)
-
+![task](https://github.com/user-attachments/assets/bf1d96db-0c0c-4ada-b5ec-a1fdf3a26a67)
+![task1](https://github.com/user-attachments/assets/859cba8a-3470-414b-9507-733ee1957590)
